@@ -2,7 +2,7 @@
 ## Self-introduction
 Hi! My name is Amanda Rowan, I am a junior studying Journalism at Lehigh University. 
 I'm the Sports Editor for [The Brown & White](https://thebrownandwhite.com).
-I am orginally from Brooklyn, New York, but grew up in Westport, Connecticut. I was a competative gymnast and cheerleader all my life, and now love writing about all things sports, and photography. 
+I am orginally from Brooklyn, New York, but grew up in Westport, Connecticut. I was a competitive gymnast and cheerleader all my life, and now love writing about all things sports, and photography. 
 
 ### Impact of COVID-19 on eating disorders
 ![text](https://github.com/amandarowan19/amandarowan19.github.io/blob/main/Eating%20Disorders%20Data%20Infographic%20Graph.png?raw=true)
