@@ -7,7 +7,6 @@ I am orginally from Brooklyn, New York, but grew up in Westport, Connecticut. I 
 ### Impact of COVID-19 on eating disorders
 ![text](https://github.com/amandarowan19/amandarowan19.github.io/blob/main/Purple%20Modern%20Pie%20Chart%20Data%20Infographic%20Graph.png?raw=true)
 
-
 ## Undergraduate demographics infographic)
 ![text](https://github.com/amandarowan19/amandarowan19.github.io/blob/main/Pink%20Minimalist%20Book%20Now%20Availability%20Nail%20Salon%20Instagram%20Story.png?raw=true)
 
