@@ -5,7 +5,7 @@ I'm the Sports Editor for [The Brown & White](https://thebrownandwhite.com).
 I am orginally from Brooklyn, New York, but grew up in Westport, Connecticut. I was a competitive gymnast and cheerleader all my life, and now love writing about all things sports, and photography. 
 
 ## Impact of COVID-19 on eating disorders
-During the pandemic, eating disorders rose in teens, specifically females ages 12-20. According to Clinical Adivosory, there was an increase in hospitilaztions, as well as readmission. This graphic depicts the increase in eating disorders, as well as the correlation between COVID-19 and eating disorders. 
+During the pandemic, eating disorders rose in teens, specifically females ages 12-20. According to [Clincal Adivsory](https://www.clinicaladvisor.com/features/a-perfect-storm-rise-in-eating-disorders-among-teens-during-covid-19/), there was an increase in hospitilaztions, as well as readmission. This graphic depicts the increase in eating disorders, as well as the correlation between COVID-19 and eating disorders. 
 ![text](https://github.com/amandarowan19/amandarowan19.github.io/blob/main/Purple%20Modern%20Pie%20Chart%20Data%20Infographic%20Graph.png?raw=true)
 
 ## Timeline
