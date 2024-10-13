@@ -20,6 +20,10 @@ With the help of Condé Nast photography, this timeline traces the evolution of 
 Lehigh University is home to about 6,000 undergraduate students, and this chart shows the break down of how the student body is distributed across different groups or areas of study, courtesy of Lehigh University Office of Institutional Data. 
 ![Bar Chart Lehigh undergradaute enrollment](https://github.com/amandarowan19/amandarowan19.github.io/blob/main/2024_Lehigh_University_undergraduate_enrollment__Percentage__chartbuilder.png?raw=true)
 
+# Mental Health breakdown inforgraphic 
+This chart breaks down Mental Health diasgnosis among adults in 2016, in realtion to where they are from. [The Commonwealth Fund](https://www.commonwealthfund.org/publications/issue-briefs/2020/may/mental-health-conditions-substance-use-comparing-us-other-countries) published a report that broke down how the United States mental health reports differ from other countries around the world. 
+![text](https://github.com/amandarowan19/amandarowan19.github.io/blob/main/Depression,_Anxiety,_or_Other_Mental_Health_Diagnoses_Among_Adults_4_chartbuilder.png?raw=true)
+
 ## Undergraduate demographics infographic)
 ![text](https://github.com/amandarowan19/amandarowan19.github.io/blob/main/Pink%20Minimalist%20Book%20Now%20Availability%20Nail%20Salon%20Instagram%20Story.png?raw=true)
 
