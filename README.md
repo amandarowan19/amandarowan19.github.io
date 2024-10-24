@@ -24,6 +24,10 @@ Lehigh University is home to about 6,000 undergraduate students, and this chart 
 This chart breaks down Mental Health diasgnosis among adults in 2016, in realtion to where they are from. [The Commonwealth Fund](https://www.commonwealthfund.org/publications/issue-briefs/2020/may/mental-health-conditions-substance-use-comparing-us-other-countries) published a report that broke down how the United States mental health reports differ from other countries around the world. 
 ![text](https://github.com/amandarowan19/amandarowan19.github.io/blob/main/Depression,_Anxiety,_or_Other_Mental_Health_Diagnoses_Among_Adults_4_chartbuilder.png?raw=true)
 
+# Best shopping cities in the world 
+This map shows the best shopping cities around the world. [Condé Nast](https://www.cntraveler.com/galleries/2015-01-03/best-shopping-cities-in-the-world-readers-choice-awards-2014) sent out a survey with the best shopping cities, and complied an article to tell the results. 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1S29nFHfB2jYGp5v5qrTfiOP6KjA-4NE&ehbc=2E312F" width="640" height="480"></iframe>
+
 # 2019 World's Top 20 Cycling Cities
 This map shows the 20 best cycling cities in the world in 2019, according to a [Wried Article](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/). These cities are ranked in order for most firendly biking cities to help individuals plan their next bike trip.
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1bcLD018KWhHMOp12AJWUIDjIb3Rul5E&ehbc=2E312F" width="640" height="480"></iframe>
