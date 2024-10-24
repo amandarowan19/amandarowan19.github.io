@@ -25,7 +25,7 @@ This chart breaks down Mental Health diasgnosis among adults in 2016, in realtio
 ![text](https://github.com/amandarowan19/amandarowan19.github.io/blob/main/Depression,_Anxiety,_or_Other_Mental_Health_Diagnoses_Among_Adults_4_chartbuilder.png?raw=true)
 
 # 2019 World's Top 20 Cycling Cities
-This map shows the 20 best cycling cities in the world in 2019, according to a Wried Article. These cities are ranked in order for most firendly biking cities to help individuals plan their next bike trip. [https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/]
+This map shows the 20 best cycling cities in the world in 2019, according to a [Wried Article](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/). These cities are ranked in order for most firendly biking cities to help individuals plan their next bike trip.
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1bcLD018KWhHMOp12AJWUIDjIb3Rul5E&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## Undergraduate demographics infographic)
