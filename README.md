@@ -24,6 +24,10 @@ Lehigh University is home to about 6,000 undergraduate students, and this chart 
 This chart breaks down Mental Health diasgnosis among adults in 2016, in realtion to where they are from. [The Commonwealth Fund](https://www.commonwealthfund.org/publications/issue-briefs/2020/may/mental-health-conditions-substance-use-comparing-us-other-countries) published a report that broke down how the United States mental health reports differ from other countries around the world. 
 ![text](https://github.com/amandarowan19/amandarowan19.github.io/blob/main/Depression,_Anxiety,_or_Other_Mental_Health_Diagnoses_Among_Adults_4_chartbuilder.png?raw=true)
 
+# 2019 World's Top 20 Cycling Cities
+This map shows the 20 best cycling cities in the world in 2019, according to a Wried Article. These cities are ranked in order for most firendly biking cities to help individuals plan their next bike trip. [https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/]
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1bcLD018KWhHMOp12AJWUIDjIb3Rul5E&ehbc=2E312F" width="640" height="480"></iframe>
+
 ## Undergraduate demographics infographic)
 ![text](https://github.com/amandarowan19/amandarowan19.github.io/blob/main/Pink%20Minimalist%20Book%20Now%20Availability%20Nail%20Salon%20Instagram%20Story.png?raw=true)
 
