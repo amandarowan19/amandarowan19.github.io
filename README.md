@@ -2,11 +2,8 @@
 ## Self-introduction
 Hi! My name is Amanda Rowan, I am a junior studying Journalism at Lehigh University. 
 I'm the Sports Editor for [The Brown & White](https://thebrownandwhite.com).
-I am orginally from Brooklyn, New York, but grew up in Westport, Connecticut. I was a competitive gymnast and cheerleader all my life, and now love writing about all things sports, and photography. 
-
-## Impact of COVID-19 on eating disorders
-During the pandemic, eating disorders rose in teens, specifically females ages 12-20. According to [Clincal Adivsory](https://www.clinicaladvisor.com/features/a-perfect-storm-rise-in-eating-disorders-among-teens-during-covid-19/), there was an increase in hospitilaztions, as well as readmission. This graphic depicts the increase in eating disorders, as well as the correlation between COVID-19 and eating disorders. 
-![text](https://github.com/amandarowan19/amandarowan19.github.io/blob/main/Purple%20Modern%20Pie%20Chart%20Data%20Infographic%20Graph.png?raw=true)
+I am orginally from Brooklyn, New York, but grew up in Westport, Connecticut. I was a competitive gymnast and cheerleader all my life, and now love writing about all things sports, and taking photos. Check out my portfolio for more of my photography and publications. 
+[portfolio](https://amandarowan150.wixsite.com/amanda-rowan-portfol)
 
 ## Timeline
 This timeline focuses on the historic Lehigh-Lafayette rivalry, one of the oldest and most intense college football rivalries in the U.S., dating back to 1884. It visually presents significant events and milestones from the rivalry, including key games, memorable moments, and other notable aspects of the schools' competition over the years. Courtesy of [Richard Harding Davis](https://res.cloudinary.com/simpleview/image/upload/v1493407835/clients/discoverlehighvalley/The_First_Lehigh_Lafayette_Game_ebb18408-ae32-410a-a4df-119428a76954.png) The interactive timeline allows users to zoom in for more detail on specific events, offering an engaging way to dive into over a century of rivalry history between the two schools.
@@ -44,6 +41,8 @@ This map shows the best shopping cities around the world. [Condé Nast](https://
 This map shows the 20 best cycling cities in the world in 2019, according to a [Wried Article](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/). These cities are ranked in order for most firendly biking cities to help individuals plan their next bike trip.
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1bcLD018KWhHMOp12AJWUIDjIb3Rul5E&ehbc=2E312F" width="640" height="480"></iframe>
 
-## Undergraduate demographics infographic)
-![text](https://github.com/amandarowan19/amandarowan19.github.io/blob/main/Pink%20Minimalist%20Book%20Now%20Availability%20Nail%20Salon%20Instagram%20Story.png?raw=true)
+
+## Impact of COVID-19 on eating disorders
+During the pandemic, eating disorders rose in teens, specifically females ages 12-20. According to [Clincal Adivsory](https://www.clinicaladvisor.com/features/a-perfect-storm-rise-in-eating-disorders-among-teens-during-covid-19/), there was an increase in hospitilaztions, as well as readmission. This graphic depicts the increase in eating disorders, as well as the correlation between COVID-19 and eating disorders. 
+![text](https://github.com/amandarowan19/amandarowan19.github.io/blob/main/Purple%20Modern%20Pie%20Chart%20Data%20Infographic%20Graph.png?raw=true)
 
