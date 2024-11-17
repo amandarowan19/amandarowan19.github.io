@@ -2,8 +2,7 @@
 ## Self-introduction
 Hi! My name is Amanda Rowan, I am a junior studying Journalism at Lehigh University. 
 I'm the Sports Editor for [The Brown & White](https://thebrownandwhite.com).
-I am orginally from Brooklyn, New York, but grew up in Westport, Connecticut. I was a competitive gymnast and cheerleader all my life, and now love writing about all things sports, and taking photos. Check out my portfolio for more of my photography and publications. 
-[portfolio](https://amandarowan150.wixsite.com/amanda-rowan-portfol)
+I am orginally from Brooklyn, New York, but grew up in Westport, Connecticut. I was a competitive gymnast and cheerleader all my life, and now love writing about all things sports, and taking photos. Check out my [portfolio](https://amandarowan150.wixsite.com/amanda-rowan-portfol) for more of my photography and publications. 
 
 ## Timeline
 This timeline focuses on the historic Lehigh-Lafayette rivalry, one of the oldest and most intense college football rivalries in the U.S., dating back to 1884. It visually presents significant events and milestones from the rivalry, including key games, memorable moments, and other notable aspects of the schools' competition over the years. Courtesy of [Richard Harding Davis](https://res.cloudinary.com/simpleview/image/upload/v1493407835/clients/discoverlehighvalley/The_First_Lehigh_Lafayette_Game_ebb18408-ae32-410a-a4df-119428a76954.png) The interactive timeline allows users to zoom in for more detail on specific events, offering an engaging way to dive into over a century of rivalry history between the two schools.
